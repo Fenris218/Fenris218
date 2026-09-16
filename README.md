@@ -19,7 +19,6 @@
 ![Eric Zimmerman Tools](https://img.shields.io/badge/Eric_Zimmerman_Tools-2D2D2D?style=for-the-badge)
 
 ### 🧠 Languages
-![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
